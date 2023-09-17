@@ -11,7 +11,7 @@ Dell Inspiron 5570 Speficications:
 4. 32GB DDR4, 2400 MHz
 5. 2.12 kg (4.7 lbs)
 
-Updates:
+Updates: for v1.0.0
 1. OpenCore Version updated to 0.9.5 and works perfectly with macOS Ventura!
 2. Drivers and Tools are updated to the latest version!
 3. HDMI Output fixed! (Thanks to AJ!)
